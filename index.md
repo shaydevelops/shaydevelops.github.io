@@ -1,6 +1,6 @@
 ---
 
-title: "Things You Auth To Know"
+title: "shaydevelops.com"
 date: 2020-07-21 00:20:08 -0500
 ---
 
