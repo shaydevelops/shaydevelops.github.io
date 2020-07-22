@@ -1,6 +1,4 @@
-Hey there, you've landed on my website placeholder. There'll be something here eventually, but for now this'll do.
-
--- shaydevelops
+Hey there, @shaydevelops. There'll be something here eventually, but for now this'll do.
 
 A nonsubstantive list of things that interest me right now, or that did whenever I wrote this include: 
 Go,
@@ -12,4 +10,4 @@ Linux Laptops & Phones,
 Raspberry Pi,
 NI Maschine
 
-I like generally like simple things and thoughtful people.
+I generally like simple things and thoughtful people.
