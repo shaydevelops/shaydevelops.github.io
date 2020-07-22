@@ -1,5 +1,4 @@
 ---
-
 title: "shaydevelops.com"
 date: 2020-07-21 00:20:08 -0500
 ---
@@ -16,4 +15,4 @@ Linux Laptops & Phones,
 Raspberry Pi,
 NI Maschine
 
-I generally like simple things and thoughtful people.
+In general, I like simple things and thoughtful people.
