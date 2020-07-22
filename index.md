@@ -9,9 +9,7 @@ JS,
 CSS, 
 WebComponents, 
 Linux Laptops & Phones, 
-NI Maschine, 
-NI Traktor 
+Raspberry Pi,
+NI Maschine
 
-
-
-
+I like generally like simple things and thoughtful people.
