@@ -1,4 +1,4 @@
-Hey there, @shaydevelops. There'll be something here eventually, but for now this'll do.
+Hey there, I'm @shaydevelops. There'll be something here eventually, but for now this'll do.
 
 A nonsubstantive list of things that interest me right now, or that did whenever I wrote this include: 
 Go,
